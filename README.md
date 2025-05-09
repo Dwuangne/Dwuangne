@@ -20,7 +20,7 @@ Hi, I'm **Quang**, a **[Software Developer]** passionate about **[building scala
 Explore more in my [Repositories](https://github.com/Dwuangne?tab=repositories).
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=[Dwuangne]&show_icons=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dwuangne&show_icons=true&theme=dracula)
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/tran-duy-quang-028b05201/)
